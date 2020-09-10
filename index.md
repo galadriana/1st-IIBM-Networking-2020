@@ -1,6 +1,9 @@
 ## Welcome to the 1st IIBM Networking 2020
 
-The "1st IIBM Networking 2020" is an instance to know each others research and increase interdisciplinary colaborations. 
+<img src="https://raw.githubusercontent.com/IIBMErs/1st-IIBM-Networking-2020/master/images/iibm-negro.png" height="320" />
+
+The "1st IIBM Networking 2020" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on November 3rd virtually. 
+
 
 ## Register
 
@@ -17,12 +20,12 @@ The undergraduate format is a 1 slide 1 minute presentation.
 ### Breakout room proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
 
-A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and topic future. Breakout rooms will count with moderators that will stay in that room and other assistants can explore, join and stay in all available rooms. 
+A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and its future. Breakout rooms will count with moderators that will stay in that room and assistants that can explore, join and stay in all available rooms. 
 
 ### Workshop proposal
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
 
-Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants con join to available workshops during the networking.
+Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
 
 ## Schedule
 
